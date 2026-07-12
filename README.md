@@ -1,6 +1,5 @@
 # Health Insurance Claims Analysis with Pandas
-Author: **Amer Sanjak**<br>
-email:sanjakam@gmail.com
+
 
 In this tutorial, we will examine claims data set that was extracted from an Electronic Medical Records Billing System that I designed, developed and implemented in the United States.  
 
