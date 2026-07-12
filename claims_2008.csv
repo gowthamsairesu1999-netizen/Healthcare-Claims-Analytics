@@ -1,6 +1,5 @@
 patientid,claimid,billedamount,paidamount,status,dos,provider,insurance,fileno,dob,sex,city,state,zipcode
 204,CL10214,75,53.26,PAID,1/23/08,Dr. A,BCBSM,PAT204,3/24/99,Female,Sterling Heights,MI,48310
-204,CL16734,75,54.95,PAID,9/5/08,Dr. A,BCBSM,PAT204,3/24/99,Female,Sterling Heights,MI,48310
 205,CL11063,745,97.65,PAID,2/20/08,Dr. A,MIDWEST HEALTH PLAN,PAT205,2/15/07,Male,Sterling Heights,MI,48310
 205,CL12099,370,21,PAID,3/25/08,Dr. A,MIDWEST HEALTH PLAN,PAT205,2/15/07,Male,Sterling Heights,MI,48310
 205,CL14983,425,46.5,PAID,7/2/08,Dr. A,MIDWEST HEALTH PLAN,PAT205,2/15/07,Male,Sterling Heights,MI,48310
